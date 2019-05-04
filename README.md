@@ -1,0 +1,3 @@
+# Amazing Color
+
+>Happy Coding
